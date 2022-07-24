@@ -15,7 +15,8 @@ a) Courses
    3. Structuring Machine Learning Projects
    4. Convolutional Neural Networks
    5. Sequence Models
-3.
+   
+3.„Machine Learning A-Z™: Hands-On Python & R In Data Science
 
 4.
 5.
