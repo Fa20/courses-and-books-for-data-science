@@ -16,9 +16,9 @@ a) Courses
    4. Convolutional Neural Networks
    5. Sequence Models
    
-3.„Machine Learning A-Z™: Hands-On Python & R In Data Science
-
-4.
+ 3.„Machine Learning A-Z™: Hands-On Python & R In Data Science
+ 
+ 4. “SQL for Data Analysis”(Udacity)
 5.
 6.
 b) Books
