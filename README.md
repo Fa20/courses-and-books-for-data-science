@@ -1,17 +1,23 @@
 # courses-and-books-for-data-science
 <br />
-
-Courses
+I would recommend the following courses and books:
 <br />
-1- Machine Learning by Andrew Ng
+
+a) Courses
 <br />
-https://www.youtube.com/watch?v=PPLop4L2eGk
-<br />
-2-
 
-3-
-
-4-
+1. Machine Learning by Andrew Ng
 
 
-Books
+2. Deep Learning Specialization by Anrew Ng(Coursera)
+   1. Neural networks and deep learning
+   2. Improving Deep Neural Networks:Hyperparameter Tuning,Regularization and Optimization
+   3. Structuring Machine Learning Projects
+   4. Convolutional Neural Networks
+   5. Sequence Models
+3.
+
+4.
+5.
+6.
+b) Books
