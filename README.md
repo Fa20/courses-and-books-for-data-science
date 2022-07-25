@@ -19,6 +19,6 @@ a) Courses
  3.„Machine Learning A-Z™: Hands-On Python & R In Data Science
  
  4. “SQL for Data Analysis”(Udacity)
-5.
+5. StatQuest with Josh Starmer
 6.
 b) Books
