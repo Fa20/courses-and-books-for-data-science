@@ -22,3 +22,4 @@ a) Courses
 5. StatQuest with Josh Starmer
 6.
 b) Books
+1. Dive into Deep Learning
